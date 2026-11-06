@@ -1,4 +1,4 @@
-# Simple General-Purpose Processor (VHDL)
+# 8-Bit Processor (VHDL)
 
 **Course:** COE 328 – Digital Systems  
 **School:** Toronto Metropolitan University  
@@ -11,7 +11,7 @@
 
 ## Objectives
 
-- Design and implement a **simple 8-bit general-purpose processor** using VHDL.  
+- Design and implement a **8-bit processor** using VHDL.  
 - Build a modular system consisting of:
   - **Registers** (storage units)
   - **Arithmetic Logic Unit (ALU)**
